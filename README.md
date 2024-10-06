@@ -4,7 +4,7 @@ I'm a ***Front-End Developer*** passionate about transforming ideas into immersi
 
 - 🔭 I’m working as **Frone-End Developer**
 
-- 🌱 I’m currently learning **TypeScript, UI/UX Design, Three JS**
+- 🌱 I’m currently learning **Next JS, TypeScript**
 
 - 💼 Open to Work: **Freelance opportunities and collaborations**
 
