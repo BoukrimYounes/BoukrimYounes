@@ -17,7 +17,7 @@ I'm a ***Front-End Developer*** passionate about transforming ideas into immersi
 
 <p align="left">  
  <a href="https://www.linkedin.com/in/boukrim-younes-67a109331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boukrim-younes-67a109331/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/younes__dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/younes__dev/" height="30" width="40" /></a><a href="https://x.com/younesboukrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a>
+<a href="https://www.instagram.com/younes__dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/younes__dev/" height="30" width="40" /></a><a href="https://x.com/younesboukrim" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png?f=webp&w=512" alt="x" height="70" width="70" /></a>
 </p>
 
 
