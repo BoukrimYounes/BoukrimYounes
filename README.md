@@ -8,7 +8,7 @@ I'm a ***Front-End Developer*** passionate about transforming ideas into immersi
 
 - 💼 Open to Work: **Freelance opportunities and collaborations**
 
-- 📫 How to reach me **boukrimyounes25@gmail.com**
+- 📫 How to reach me **boukrimyounes77@gmail.com**
 
 - ⚡ Fun Facts: **In my free time, I enjoy reading and Watch football**
 
